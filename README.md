@@ -6,7 +6,7 @@ A full-stack payment operations dashboard designed for tracking real-time transa
 
 | Dashboard & Charts | Recent Transactions |
 |:---:|:---:|
-| ![Overview](./assets/screenshots/dashboard-overview.png) | ![Transactions](./assets/screenshots/recent-transactions.png) |
+| ![Overview](./screenshots/overview_projecect1.png) | ![Transactions](./screenshots/overview_project2.png) |
 
 ## 🚀 Tech Stack
 
